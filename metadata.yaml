@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '24919'
     url: http://www.gutenberg.org/2009/agents/24919
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30915#Mon-fr-re-et-moi--souvenirs-d-enfance-et-de-jeunesse
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2010-01-10'
 gutenberg_type: Text
